@@ -1,5 +1,11 @@
 # Movie Recommendation Engine
 
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![Pandas](https://img.shields.io/badge/Pandas-Used-success.svg)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.x-orange.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Active-success.svg)
+
 This project is a movie recommendation system that suggests movies to users based on their past ratings. It uses collaborative filtering to find similarities between users or items and then recommends the top movies that a user might like.
 
 ## Overview
